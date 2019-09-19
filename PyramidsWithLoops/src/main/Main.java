@@ -1,6 +1,6 @@
 /*
- * Bill Nicholson
- * nicholdw@ucmail.uc.edu
+ * Aaron Silvestri
+ * silvesam@ucmail.uc.edu
  * Printing pyramids using loops. It kind-of works. 
  * What I really want is
         1
@@ -8,6 +8,7 @@
       33333
      4444444
     555555555 
+    to get code back to remote repo( edit code first) right click on project->team-> commit
 */
 package main;
 
